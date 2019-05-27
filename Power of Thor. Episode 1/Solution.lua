@@ -23,7 +23,7 @@ while true do
     dir = ""
             if lightY > initialTY
             then
-                dir = dir.. "S";
+                dir = dir .. "S";
                 initialTY = initialTY + 1
                 if lightX > initialTX
                 then
